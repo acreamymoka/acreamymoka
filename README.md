@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello Github,
 
-<!--
-**acreamymoka/acreamymoka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me:
+Raised in the STL area, I am a person who is geared towards helping others in IT.
+## Pronouns:
+I am a She/Her at birth and i will stay that way.
+## Studies:
+I am currently studying:
+- Korean
+- Cpp
+- C
+- Bash (already knows a ton, just never made a bash script before until recently)
+## Current Knowledge:
+- Python
+- Some HTML
+- Some CSS
