@@ -14,3 +14,4 @@ I am currently studying:
 - Python
 - Some HTML
 - Some CSS
+- Linux (My favorite and only OS)
